@@ -1,0 +1,177 @@
+<?php get_header(); ?>
+<div class="cols-wrapper">
+	<div class="col-left">
+		<ul class="sidemenu">
+			<li><a href="#">Продвижение сайтов по  позиции</a></li>
+			<li><a href="#">Продвижение сайтов с оплатой за результат</a></li>
+			<li><a href="#">Продвижение сайтов оплатой за трафик</a></li>
+			<li><a href="#">Seo оптимизация сайтов</a></li>
+		</ul>
+
+		<div class="module">
+			<div class="module-title">
+				<h3>Онлайн-расчет</h3>
+				<span>шаг 1 из 2</span>
+				<div class="module-nav">
+					<a class="mn-prev" href="#"></a>
+					<a class="mn-next" href="#"></a>
+				</div>
+			</div>
+			<!-- step 1 start -->
+			<div class="form-onlinecalc">
+				<form action="#" method="post">
+					<label>Прислать расчет сюда</label>
+					<input type="text" placeholder="exemple@gmail.com">
+
+					<label>Меня зовут</label>
+					<input type="text" placeholder="Иванов Иван">
+
+					<label>Обсудить подробности</label>
+					<input type="text" placeholder="+7 914 587 78 96">
+
+					<input type="submit" value="Отправить мне расчет">
+				</form>
+			</div>
+			<!-- step 1 end -->
+
+			<!-- step 2 start -->
+			<div class="form-onlinecalc fo-step2">
+				<form action="#" method="post">
+					<label>Рассчитайте стоимость продвижения моего сайта
+						<span class="i-marker">
+							<span class="i-info">Пожалуйста, не забудьте про адрес сайта. продвижения тем, что клиент платит за целевые посещения, а не за место сайта в выдаче.</span>
+						</span>
+					</label>
+					<span class="inp-l">http://</span><input type="text" placeholder="exemple.ru">
+					<span class="inp-l">регион</span><input type="text" placeholder="exemple.ru">
+
+					<label>Я хочу продвигаться <br>по ключевым запросам
+						<span class="i-marker">
+							<span class="i-info">Пожалуйста, не забудьте про адрес сайта. продвижения тем, что клиент платит за целевые посещения, а не за место сайта в выдаче.</span>
+						</span>
+					</label>
+					<span class="inp-l">1 из 10</span><input type="text" placeholder="exemple.ru">
+					<a class="fo-link" href="#">+ <span>добавить запрос</span></a>
+
+					<input type="submit" value="Далее">
+				</form>
+			</div>
+			<!-- step 2 end -->	
+		</div><!-- .module -->
+
+		<div class="module">
+			<div class="module-title">
+				<h3>продвинули</h3>
+				<div class="module-nav">
+					<a class="mn-prev" href="#"></a>
+					<a class="mn-next" href="#"></a>
+				</div>
+			</div>
+			<div class="m-promoted">
+				<table class="mp-table">
+					<tr>
+						<th class="mp-option">Запрос</th>
+						<th class="mp-value">Позиция</th>
+					</tr>
+					<tr>
+						<td><a href="#">st-verta.ru</a></td>
+						<td><img src="images/pos-yandex.jpg" alt=""></td>
+					</tr>
+					<tr>
+						<td>SEO-оптимизация сайта</td>
+						<td>2</td>
+					</tr>
+					<tr>
+						<td>Оптимизация сайта</td>
+						<td>5</td>
+					</tr>
+					<tr>
+						<td>Продвижение сайта</td>
+						<td>8</td>
+					</tr>
+					<tr>
+						<td>С оплатой за результат</td>
+						<td>4</td>
+					</tr>
+					<tr>
+						<td>SEO-оптимизация сайта</td>
+						<td>2</td>
+					</tr>
+				</table>
+			</div>
+		</div><!-- .module -->
+	</div><!-- .col-left -->
+
+	<div class="col-right">
+		<div class="breadcrumbs">
+			<a href="#">Главная</a>
+			<span>Продвижение сайта с оплатой за трафик</span>
+		</div>
+
+		<h1>Продвижение сайтов с оплатой за трафик</h1>
+
+		<p>Трафик – это посещаемость вашего сайта целевыми посетителями. Если в случае с «Продвижением по позициям» качественной составляющей является присутствие вашего сайта среди первой десятки естественных результатов поисковой выдачи, то «Продвижение сайта по трафику» (раскрутка с оплатой за посетителей) направлено на постоянный рост числа целевых посетителей вашего сайта. Вы сами планируете, какой охват аудитории для вас окажется оптимальным, а мы поможем собрать всех ваших будущих клиентов на вашем сайте.</p>
+
+		<div class="c-items-wrapper">
+			<div class="c-item">
+				<div class="c-image"><img src="images/c-image1.jpg" alt=""></div>
+				<div class="c-title">Больше <br>запросов</div>
+				<p>Продвижение по трафику – это более 1 000 поисковых запро­сов для каждого сайта!</p>
+				<p>Как правило, это средне- и низкоча­стотные ключевые сло­ва, то есть более целевые и дешевые, чем высокочастотные. Продвижение по трафику более 1000 поисковых запро­сов!</p>
+			</div>
+
+			<div class="c-item">
+				<div class="c-image"><img src="images/c-image2.jpg" alt=""></div>
+				<div class="c-title">Как  происходит работа по тарифу</div>
+				<p>Мы тщательно подбираем ключе­вые запросы, руковод­ствуясь прави­лом: неэффек­тивные клю­че­вики – потеря денег клиента.</p>
+				<p>Мы продвигаем по трафику с макси­мальной ориентацией на цели кли­ента и постоянно работаем над повышением конверсии сайта.</p>
+			</div>
+
+			<div class="c-item">
+				<div class="c-image"><img src="images/c-image3.jpg" alt=""></div>
+				<div class="c-title">Преимущества <br>данного  тарифа</div>
+				<p>Мы, как опытные SEO-специа­листы, знаем, что при про­дви­жении по трафику от нас ждут целевых посещений и хо­ро­ших поведен­ческих фак­то­ров.</p>
+				<p>Поэтому мы можем кор­рек­ти­ровать общий список ключевых запросов уже в процессе работы или после анализа результатов продвижения.</p>
+			</div>
+		</div><!-- .c-items-wrapper -->
+
+		<h2>Для кого  подходит  данный тариф</h2>
+		<ul class="ul-marker">
+			<li><strong>владельцев сайтов,</strong> которые пытались достичь результат по ВЧ запросам в своей тематике, поняли, что это очень сложно и ищут альтернативные способы получения посетителей из результатов поиска;</li>
+			<li><strong>для самых продвинутых владельцев сайтов,</strong> которые совмещают результат по ВЧ запросам, широкий шлейф НЧ запросов плюс контекст, получая из поиска максимум;</li>
+			<li><strong>для тематик,</strong> в которых список НЧ запросов реально подобрать и в которых присутствие по широкому списку НЧ запросов более результативно. Классический пример – ВЧ запрос «Спецодежда» менее результативен, чем десяток запросов типа «Зимние комбинезоны для строителей»;</li>
+			<li><strong>для больших сайтов,</strong> с большим числом проиндексированных страниц.</li>
+		</ul>
+
+		<div class="c-bnr">
+			<div class="cb-title">Стоимость услуги поискового продвижения с оплатой за трафик</div>
+			<p>Минимальная сумма договора на продвижение сайта по трафику в компании </p>
+			<p class="cb-price">по Москве – 25 000 рублей <span>(абонемент + премия за переходы)</span></p>
+		</div>
+
+	</div><!-- .col-right -->
+</div><!-- .cols-wrapper -->
+
+<div class="c-blocks-wrapper">
+	<div class="c-block">
+		<h3>Отправить заявку</h3>
+		<p class="tLeft">Начните продвигать свой сайт уже сегодня вместе с нами. Это просто, выгодно и эффективно.</p>
+		<a href="#" class="button-green">подать заявку</a>
+		<p class="tLeft">Чем больше информации вы предоставите, тем более точным будет наше предложение по стоимости и срокам.</p>
+	</div><!-- .c-block -->
+
+	<div class="c-block">
+		<h3>Остались вопросы?</h3>
+		<p class="cb-top">Наши менеджеры готовы перезвонить вам и все рассказать</p>
+		<div class="cb-form">
+			<form action="#" method="post">
+				<input type="text" class="input-name" placeholder="Ваше имя">
+				<input type="text" class="input-phone" placeholder="Номер телефона">
+				<input type="submit" value="перезвоните мне">
+			</form>
+		</div>
+		<p class="cb-phone-title">Удобнее связаться с нами самостоятельно? Звоните по телефону: </p>
+		<div class="cb-phone">+7 (495) 727-75-15</div>
+	</div><!-- .c-block -->
+</div><!-- .c-blocks-wrapper -->
+<?php get_footer(); ?>
